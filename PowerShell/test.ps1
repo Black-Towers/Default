@@ -1,0 +1,3 @@
+$Var = @{
+    Name = Value
+}
